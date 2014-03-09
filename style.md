@@ -47,11 +47,12 @@ but *don't overdo this*!
 
 ### blanks
 spaces` `, tabs`\t` and newlines`\n` are blanks. returns`\r` are not.
-returns are not allowed to be in the code.
+returns are not allowed in the code.
 
 ### indentation
 *tabs only*. tabs must be *4-space wide*.
-identation should generally obey to the vim's auto-indent and smart-indent.
+indentation should generally obey to the vim's default auto-indent
+and smart-indent.
 
 ### tabular
 spaces only.
